@@ -1,0 +1,10 @@
+p {
+    font-size: 17px;
+}
+.icon {
+    font-size: 40px;
+}
+input,
+submit {
+    border-radius: 15px;
+}
